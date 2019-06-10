@@ -10,7 +10,7 @@
 ![image](https://github.com/Akansha-Jaisinghani/CalculatorTkinter/blob/master/multiplication.PNG)
 
 ## **DIVISION**
-![image](https://github.com/Akansha-Jaisinghani/CalculatorTkinter/blob/master/division.PNG)
+![image](https://github.com/Akansha-Jaisinghani/CalculatorTkinter/blob/master/Division.PNG)
 
 ## **ERROR**
 ![image](https://github.com/Akansha-Jaisinghani/CalculatorTkinter/blob/master/error.PNG)
